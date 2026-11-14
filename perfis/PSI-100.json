@@ -1,0 +1,73 @@
+{
+  "estudo": "PSI-100",
+  "arquivos": [
+    {
+      "arquivo": "PSI-100_Experimental table_SAFFIRE-3.csv",
+      "caminho": "PSI-100\\experimental_table\\PSI-100_Experimental table_SAFFIRE-3.csv",
+      "extensao": ".csv",
+      "abas": {
+        "csv": {
+          "linhas": 3,
+          "colunas": 9,
+          "cabecalhos": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "pct_nulos": {
+            "0": 0.0,
+            "1": 0.0,
+            "2": 0.0,
+            "3": 0.0,
+            "4": 0.0,
+            "5": 0.0,
+            "6": 0.0,
+            "7": 0.0,
+            "8": 0.0
+          },
+          "amostra": [
+            [
+              "Sample Number ",
+              "Material",
+              "Sample Thickness",
+              "Sample Length",
+              "Sample Width",
+              "Air Flow ",
+              "Direction",
+              "Camera 1",
+              "Camera 2"
+            ],
+            [
+              "S1",
+              "SIBAL Fabric",
+              ".33 cm",
+              "94 cm",
+              "40.6 cm",
+              "30 cm/s",
+              "Concurrent ",
+              "S1C1",
+              "S1C2"
+            ],
+            [
+              "S2",
+              "SIBAL Fabric",
+              ".33 cm",
+              "94 cm",
+              "40.6 cm",
+              "30 cm/s",
+              "Opposed",
+              "S2C1",
+              "S2C2"
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}
