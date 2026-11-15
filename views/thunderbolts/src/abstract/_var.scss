@@ -1,0 +1,61 @@
+// ==============================
+// Typography
+// ==============================
+
+// Families
+$font-sans: "Inter", sans-serif;
+$font-mono: "JetBrains Mono", monospace;
+
+// Weights
+$weight-regular: 400;
+$weight-medium: 500;
+$weight-bold-brand: 750;
+
+
+$breakpoint-mobile: 600px;
+$breakpoint-tablet: 900px;
+$breakpoint-wide: 1600px;
+
+// ==============================
+// Colors: palette
+// ==============================
+
+$color-orange: oklch(0.704 0.163 46);  // #F07A3C
+$color-gold: oklch(0.819 0.104 79);    // #E8BC73
+$color-thermal-red: #DA4A3C;
+$color-error-red: #E7000B;
+
+// ==============================
+// Colors: semantic
+// ==============================
+
+// Backgrounds
+$bg-page: oklch(0.177 0.004 264);      // #101113  fundo principal
+$bg-section: oklch(0.219 0.004 264);   // #191A1C  fundo secundário
+$bg-surface: oklch(0.258 0.005 264);   // #222426  superfícies e controles
+$bg-elevated: oklch(0.296 0.005 264);  // #2B2D2F  elevadas e tooltips
+
+// Borders
+$border-default: oklch(0.33 0.005 264); // #343538  bordas e divisórias
+$border-header: oklch(0.95 0.003 80 / 0.14);
+
+// Text
+$text-primary: oklch(0.95 0.003 80);    // #EFEEEC
+$text-secondary: oklch(0.679 0.005 264); // #96989B  legendas
+$text-on-highlight: $bg-page;           // texto sobre destaque laranja
+
+// Highlights (usos)
+$highlight-main: $color-orange;         // destaques, datas, capítulo ativo, foco
+$highlight-conclusion: $color-gold;     // conclusões científicas
+
+// Status
+$status-thermal: $color-thermal-red;
+$status-error: $color-error-red;
+
+// ==============================
+// Charts
+// ==============================
+
+$chart-series-first: $color-orange;
+$chart-series-second: $color-gold;
+$chart-area-fill-opacity: 0.07;
