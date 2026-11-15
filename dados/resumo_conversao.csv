@@ -1,0 +1,1175 @@
+estudo,arquivo,status,detalhe
+PSI-10,Raw Data\PSI-10_Raw Data_21340A2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340B2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C4_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C5_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C6_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340C7_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21340M2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349D2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349D3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M4_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M5_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M6_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349M7_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349N1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349N2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349N3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_21349N4_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22024L1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22024L2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22024L3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22024M1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22024M2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035B1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035C1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035D1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035D3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035F1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035G1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035G2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J1_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J2_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J3_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J4_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J5_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J6_Comments.txt,comentario,
+PSI-10,Raw Data\PSI-10_Raw Data_22035J7_Comments.txt,comentario,
+PSI-100,Experimental table\PSI-100_Experimental table_SAFFIRE-3.csv,ja_existia,
+PSI-100,Raw Data\PSI-100_Raw Data_Raw telemetry file.csv,ja_existia,
+PSI-100,Raw Data\PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx,grande_demais,> 20 MB
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [CO2],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [O2],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx [Calibrated Data],ja_existia,
+PSI-100,Raw Data\PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx,grande_demais,> 20 MB
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [RawData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [Cygnus-Saffire Timestamp Graph],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusSmokeDetectorData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusPressureData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusTemperatureData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [SaffireData],ja_existia,
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [RadiometerGraph],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [FlowGraph],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusPressTempGraph],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [CygnusSmokeDetectorGraph],aba_de_grafico,sem dados
+PSI-100,PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx [timedelta],aba_de_grafico,sem dados
+PSI-100,Raw Data\PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv,ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [Received - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [BIT - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [PreFlowVis - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [PostFlowVis - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [Sample1 - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx [Sample2 - jpeg],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [Requested - RAW],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [Received - RAW],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [BIT - raw],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [PreFlowVis - raw],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [PostFlowVis - raw],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [Sample1 - raw],ja_existia,
+PSI-100,PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx [Sample2 - raw],ja_existia,
+PSI-101,PSI-101_Analyzed Data_2010_210_10_lampwick_run57_a.xlsx [Chart1],aba_de_grafico,sem dados
+PSI-101,PSI-101_Analyzed Data_2010_210_10_lampwick_run57_a.xlsx [Sheet used to Graph],ja_existia,
+PSI-101,PSI-101_Analyzed Data_2010_210_10_lampwick_run57_a.xlsx [Original (cut and paste)],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Results 64-pre-2 new],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Results 64-pre-9],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Results 64-pre-10],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Results 64-pre-11],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Results 64-pre-12],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Diam data],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [SizeDist],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Binned data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_54 lampwick binneddatacorr from GWM.xlsx [Comments on binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results -18 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-19 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-20 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-21 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-22 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-23 13],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-24 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Results-25 13S],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [all data (2)],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Binned data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Diameter data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_60 silicone.xlsx [Sheet11],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Results 64-pre-2 new],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Results 64-pre-9],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Results 64-pre-10],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Results 64-pre-11],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Results 64-pre-12],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Diam data],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [all data sort big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [all data sort],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [SizeDist],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Binned data (2)],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Binned data bi g only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton aged issue with bins.xlsx [Comments on binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Results 64-pre-2 new],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Results 64-pre-9],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Results 64-pre-10],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Results 64-pre-11],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Results 64-pre-12],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Diam data],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [SizeDist],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Binned data big only (2)],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Binned data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Binned data (2)],ja_existia,
+PSI-101,PSI-101_Analyzed Data_62 Kapton unaged.xlsx [Comments on binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Results 64-pre-2 new],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Results 64-pre-9],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Results 64-pre-10],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Results 64-pre-11],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Results 64-pre-12],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Diam data],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [SizeDist],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Binned data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell aged.xlsx [Comments on binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Results 64-pre-2 new],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Results 64-pre-9],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Results 64-pre-10],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Results 64-pre-11],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Results 64-pre-12],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [ANOVA results],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Diam data],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [SizeDist],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Binned data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_64 Pyrell unaged.xlsx [Comments on binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [Results94 post-3],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [Results94 post-4],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [Results 94 post-5],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [Results 94 post-6],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [all data big only],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [all data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_94 Kapton aged- results.xlsx [Binned data],ja_existia,
+PSI-101,PSI-101_Analyzed Data_TEMflowvsnoflow.xls [Reduced data sheet],ja_existia,
+PSI-101,PSI-101_Analyzed Data_TEMflowvsnoflow.xls [Sheet1],aba_vazia,aba vazia
+PSI-101,PSI-101_Analyzed Data_TEMflowvsnoflow.xls [Sheet2],aba_vazia,aba vazia
+PSI-101,PSI-101_Analyzed Data_TEMflowvsnoflow.xls [Sheet3],aba_vazia,aba vazia
+PSI-101,PSI-101_Analyzed Data_thermal precipitator map updated.xlsx [Sheet1],ja_existia,
+PSI-101,PSI-101_Analyzed Data_thermal precipitator map updated.xlsx [Sheet2],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Analyzed Data_thermal precipitator map updated.xlsx [Sheet3],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Engineering Documents_SAME VPRED Matrix PLN-005 Baseline.xls [VPERD matrix PLN-005 baseline],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME-R_ThermalPrecipitatorUsage.xlsx [Sheet1],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME-R_ThermalPrecipitatorUsage.xlsx [Sheet2],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Engineering Documents_SAME-R_ThermalPrecipitatorUsage.xlsx [Sheet3],aba_vazia,The sheet is empty.
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Sheet1],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Fixture],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [MildSteel1],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [MildSteel2],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [MildSteel3],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Iron4],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Iron5],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Iron6],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Alumel7],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Alumel8],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Alumel9],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [SafetyWire10],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [SafetyWire11],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [SafetyWire12],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Nichrome13a],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Kanthal13b],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [Platinum],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [PtRh],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [W5Rh],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [W26Rh],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [W5Rh 16a],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [W26Rh 16b],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [015SS],ja_existia,
+PSI-101,PSI-101_Engineering Documents_SAME_Wire_Test.xls [015SS2],ja_existia,
+PSI-101,Experimental table\PSI-101_Experimental table_SAME-R.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt235_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt235_4.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt236_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt236_2.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt237_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt238_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt238_3.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt238_4.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt238_5.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt239_2.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt239_3.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt239_4.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_2.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_3.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_4.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_6_run89.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt242_7.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt250_1.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt250_2.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt250_6.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt251_2.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt251_3.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt251_5.csv,ja_existia,
+PSI-101,Raw Data\PSI-101_Raw Data_HKPData_gmt252_4.csv,ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [ SPVqtr a],ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [ SPV qtr b],ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [SPV of 54-7L_21 qtr c],ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [SPV qtr d],ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [qtr c],ja_existia,
+PSI-101,PSI-101_Raw Data_SPV of 54-7L_21 all quarters (3).xlsx [Statistics],ja_existia,
+PSI-102,PSI-102_Analyzed Data_DBP  GMT257hkp.xls [Copy of GMT256hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_dbpGMT257hkp zgy average.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_dbpGMT257hkp zgy average.xls [Copy of GMT256hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT252run1testhkp with plots.xls [For Graphing Instruments],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT252run1testhkp with plots.xls [Housekeeping],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls [For Graphing ],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls [For  Average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls [Housekeeping],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls [For Graphing],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls [Copy of GMT254run2btesthkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls [For Average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT255 log.xlsx [Copy of GMT255log],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT255hkp.xlsx [Copy of GMT255hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT256HKP.xls [ALLGMT256],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT256LOG.xlsx [GMT256LOG],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls [DBPGMT262hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls [for aged average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 Run 12 dbp.xls [GMT262bhkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 RUN 13 teflon.xls [GMT262tefhkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT262 RUN 13 teflon.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT263 run 14 kapton avg.xls [GMT263kaphkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT263 run 14 kapton avg.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT263 Run 15 DBP.xls [GMT263dbphkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT263 Run 15 DBP.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT263 Run 16 DBP.xls [GMT263dbptest16hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT264 Run 17 lampwick.xls [GMT264lampwick17hkp (2)],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT264 Run 17 lampwick.xls [forgraphing],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls [19 data],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls [20 data],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls [GMT264dbptest18hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT267silicon test 23 and 24 log.xlsx [GMT267silicontest23and24log],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT268teflon26.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT268teflon26.xls [GMT268teflon26hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT269silicon27.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT269silicon27.xls [GMT269silicon27hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT269teflon28hkp.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT269teflon28hkp.xls [GMT269teflon28hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT272kapton30.xls [GMT272kapton30hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT272lampwick31.xls [GMT272lampwick31hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT273lampwick34.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT273lampwick34.xls [GMT273lampwick34hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp37.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp37.xls [GMT276dbp37hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp37.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp39hkp.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp39hkp.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp39hkp.xls [GMT276dbp39hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp40hkp.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276dbp40hkp.xls [GMT276dbp40hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276silicone35.xls [for Average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276silicone35.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT276silicone35.xls [GMT6silicone35hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT277DBP43hkp.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT277DBP43hkp.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_GMT277DBP43hkp.xls [GMT277DBP43hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_kaptonGMT257 zgy average.xls [for Average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_kaptonGMT257 zgy average.xls [209D8A~1.HKP.eng],ja_existia,
+PSI-102,PSI-102_Analyzed Data_kaptonGMT257.xls [209D8A~1.HKP.eng],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 1 GMT252 testlog.xls [Copy of GMT252run1testlog],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls [for graphing],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls [for average],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls [Copy of GMT254run2testhkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 2 GMT254 testlog b.xlsx [Run 2 GMT254 testlog b],ja_existia,
+PSI-102,PSI-102_Analyzed Data_Run 2 GMT254 testlog.xlsx [Run 2 GMT254 testlog],ja_existia,
+PSI-102,PSI-102_Analyzed Data_TeflonGMT257hkp zgy average.xls [for averge],ja_existia,
+PSI-102,PSI-102_Analyzed Data_TeflonGMT257hkp zgy average.xls [Copy of GMT256hkp],ja_existia,
+PSI-102,PSI-102_Analyzed Data_TeflonGMT257hkp.xls [Copy (2) of GMT256hkp],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME VPRED Matrix PLN-005 Baseline.xls [VPERD matrix PLN-005 baseline],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Sheet1],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Fixture],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [MildSteel1],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [MildSteel2],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [MildSteel3],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Iron4],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Iron5],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Iron6],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Alumel7],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Alumel8],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Alumel9],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [SafetyWire10],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [SafetyWire11],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [SafetyWire12],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Nichrome13a],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Kanthal13b],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [Platinum],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [PtRh],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [W5Rh],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [W26Rh],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [W5Rh 16a],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [W26Rh 16b],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [015SS],ja_existia,
+PSI-102,PSI-102_Engineering Documents_SAME_Wire_Test.xls [015SS2],ja_existia,
+PSI-102,Experimental table\PSI-102_Experimental table_SAME.csv,ja_existia,
+PSI-106,Experimental table\PSI-106_Experimental table_Slice.csv,ja_existia,
+PSI-106,411259meter cal.xls [411259],ja_existia,
+PSI-106,Raw Data\GMT2012_040_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_044_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_048_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_051_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_058_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_061_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_072_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_075_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_079_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\GMT2012_083_SLICE_num.txt,ja_existia,
+PSI-106,Raw Data\pic_info_040.csv,ja_existia,
+PSI-106,pic_info_040_built.xls,ok_xls_texto,"7 colunas, 189 linhas"
+PSI-106,pic_info_040_zeroT.xls,ok_xls_texto,"7 colunas, 189 linhas"
+PSI-106,Raw Data\pic_info_044_RoomT.csv,ja_existia,
+PSI-106,Raw Data\pic_info_048_0.8_nozzle_0T.csv,ja_existia,
+PSI-106,Raw Data\pic_info_048_0.8_nozzle_RoomT.csv,ja_existia,
+PSI-106,Raw Data\pic_info_048_1.6_nozzle_0T.csv,ja_existia,
+PSI-106,Raw Data\pic_info_055.csv,ja_existia,
+PSI-106,pic_info_055_0T_built.xls,ok_xls_texto,"7 colunas, 244 linhas"
+PSI-106,pic_info_055_built.xls,ok_xls_texto,"7 colunas, 244 linhas"
+PSI-106,Raw Data\pic_info_055_old.csv,ja_existia,
+PSI-106,Raw Data\pic_info_059.csv,ja_existia,
+PSI-106,pic_info_059_built.xls,ok_xls_texto,"7 colunas, 237 linhas"
+PSI-106,Raw Data\pic_info_059_noBG.csv,ja_existia,
+PSI-106,pic_info_059_noBG_built.xls,ok_xls_texto,"7 colunas, 117 linhas"
+PSI-106,Raw Data\pic_info_065_0T.csv,ja_existia,
+PSI-106,Raw Data\pic_info_072.csv,ja_existia,
+PSI-106,pic_info_072_built.xls,ok_xls_texto,"7 colunas, 220 linhas"
+PSI-106,Raw Data\pic_info_079_0T.csv,ja_existia,
+PSI-106,Raw Data\SLICE_vel.csv,ok_tolerante,"4 colunas, 9 linhas"
+PSI-107,Experimental table\PSI-107_Experimental table_Spice.csv,ja_existia,
+PSI-107,Raw Data\PSI-107_Raw Data_045_SPICE_DSC_num.txt,ok_espacos,"4 colunas, 55 linhas"
+PSI-107,Raw Data\PSI-107_Raw Data_048_SPICE_num.txt,ok_espacos,"6 colunas, 59 linhas"
+PSI-107,PSI-107_Raw Data_GMT052nikon_propy.xls [overview],ok_tolerante,"2 colunas, 163 linhas"
+PSI-107,PSI-107_Raw Data_GMT052nikon_propy.xls [Propy 1.6],ok_tolerante,"4 colunas, 33 linhas"
+PSI-107,PSI-107_Raw Data_GMT052nikon_propy.xls [Propy 0.8],ok_tolerante,"4 colunas, 29 linhas"
+PSI-107,PSI-107_Raw Data_GMT052nikon_propy.xls [Propy 0.4],ok_tolerante,"5 colunas, 46 linhas"
+PSI-107,PSI-107_Raw Data_GMT055nikon.xls [overview],ok_tolerante,"6 colunas, 121 linhas"
+PSI-107,PSI-107_Raw Data_GMT055nikon.xls [1.6],ok_tolerante,"1 colunas, 47 linhas"
+PSI-107,PSI-107_Raw Data_GMT055nikon.xls [0.8],ok_tolerante,"1 colunas, 61 linhas"
+PSI-107,PSI-107_Raw Data_GMT055nikon.xls [0.4],ok_tolerante,"1 colunas, 17 linhas"
+PSI-107,PSI-107_Raw Data_GMT058nikon.xls [overview],ok_tolerante,"1 colunas, 138 linhas"
+PSI-107,PSI-107_Raw Data_GMT058nikon.xls [Propy 1.6],ok_tolerante,"1 colunas, 53 linhas"
+PSI-107,PSI-107_Raw Data_GMT058nikon.xls [Propy 0.8],ok_tolerante,"1 colunas, 38 linhas"
+PSI-107,PSI-107_Raw Data_GMT058nikon.xls [Propy 0.4],ok_tolerante,"1 colunas, 50 linhas"
+PSI-107,PSI-107_Raw Data_MASS_FLOW_CALIBRATION.xls [Sheet1],ok_tolerante,"1 colunas, 7 linhas"
+PSI-107,PSI-107_Raw Data_MASS_FLOW_CALIBRATION.xls [Sheet2],aba_vazia,aba vazia
+PSI-107,PSI-107_Raw Data_MASS_FLOW_CALIBRATION.xls [Sheet3],aba_vazia,aba vazia
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [Smoke Point Datasheet],ja_existia,
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [Reference],ja_existia,
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. Coflow (2)],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SP - Fuel v. Air],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. Coflow],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. uf],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [uf v. Coflow],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH_d v. Re_Zst],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH_d v. Re_Zst (2)],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH_d v. Re],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. ua_uf],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. Mass Flow_Zst],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. Mass Flow_Zst (2)],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [SH v. Mass Flow],aba_de_grafico,sem dados
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [Smoke Point Datasheet (2)],ok_tolerante,"8 colunas, 57 linhas"
+PSI-107,PSI-107_Raw Data_SmokePointReview-0g-3.xlsx [Reference (2)],ja_existia,
+PSI-107,PSI-107_Raw Data_Spice Flight Test Data II modified.xls [Data record of Video and Stills],ok_tolerante,"10 colunas, 528 linhas"
+PSI-107,PSI-107_Raw Data_Spice Flight Test Data II modified.xls [Reference],ok_tolerante,"1 colunas, 22 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 19 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 19 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 19 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 36 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 36 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 36 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 57 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 57 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 13 mm Station x 57 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 19 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 19 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 19 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 36 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 36 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 36 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 57 mm Height, CENTER.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 57 mm Height, INSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,"PSI-107_Raw Data_SPICE Flow Duct Cal - 56 mm Station x 57 mm Height, OUTSIDE.xls [Data]",ok_tolerante,"1 colunas, 10 linhas"
+PSI-107,PSI-107_Raw Data_SPICE Flow settings_w chart.xls [20 may 08],ok_tolerante,"2 colunas, 9 linhas"
+PSI-107,PSI-107_Raw Data_SPICE Flow settings_w chart.xls [all data],ok_tolerante,"2 colunas, 38 linhas"
+PSI-107,PSI-107_Raw Data_SPICE Flow settings_w chart.xls [Sheet3],aba_vazia,aba vazia
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_Duct Velocity Profiles.xls [Data],ok_tolerante,"1 colunas, 5 linhas"
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityComparison.xlsx [note],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityComparison.xlsx [13mm station],ok_tolerante,"13 colunas, 39 linhas"
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityComparison.xlsx [56mm station],ok_tolerante,"13 colunas, 39 linhas"
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [all data],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [first attempt],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [Variation on X],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [Variation on Y],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [Variation on Z],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_Airflow_Test_VelocityData.xlsx [Variation near Nozzle],ja_existia,
+PSI-107,PSI-107_Raw Data_Spice_Flight_Flamelength.xls [Calib],ok_tolerante,"2 colunas, 12 linhas"
+PSI-107,PSI-107_Raw Data_Spice_Flight_Flamelength.xls [FlameLength],ok_tolerante,"2 colunas, 13 linhas"
+PSI-107,PSI-107_Raw Data_Spice_Flight_Flamelength.xls [Sheet3],aba_vazia,aba vazia
+PSI-107,PSI-107_Raw Data_SPICE_FuelFlow_411259meter.xls [411259],ok_tolerante,"5 colunas, 39 linhas"
+PSI-107,PSI-107_Raw Data_SPICE_FuelFlow__Voltage.xlsx [Voltage.csv],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_FuelFlow_EngineeringUnitControl.xlsx [Sheet1],ja_existia,
+PSI-107,PSI-107_Raw Data_SPICE_FuelFlow_MFC_settings.xlsx [SPICE MFC Cal at Yale],ja_existia,
+PSI-108,Experimental table\PSI-108_Experimental table_STDCE-1(1).csv,ja_existia,
+PSI-108,Experimental table\PSI-108_Experimental table_STDCE-1.csv,ja_existia,
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_MST_2024_Burning_history_Flame_diameter.csv,ok_tolerante,"20 colunas, 683 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_MST_2024_Dext.csv,ok_tolerante,"8 colunas, 9 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_MST_2024_Kavg.csv,ok_tolerante,"7 colunas, 19 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_MST_2024_Radiance_Flame_Diameter.csv,ok_tolerante,"40 colunas, 683 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_PROCI_2019_Oscillatory_Cool_Flame.csv,ja_existia,
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_PROCI_2019_Stable_Cool.csv,ja_existia,
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_PROCI_2023_Alkane_Extinction_Diameter_1atm.csv,ok_tolerante,"29 colunas, 6 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_PROCI_2023_C12_Extinction_Diameter_vs_pressure.csv,ok_tolerante,"17 colunas, 6 linhas"
+PSI-117,Analyzed Data\PSI-117_Analyzed Data_PROCI_C12_2019_Three_Stage.csv,ok_tolerante,"44 colunas, 570 linhas"
+PSI-117,PSI-117_Analyzed Data_ReadMe_List_of_Data.xlsx [Sheet1],ok_tolerante,"10 colunas, 12 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data summary],ok_tolerante,"5 colunas, 8 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 1],ok_tolerante,"3 colunas, 5 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 2],ok_tolerante,"3 colunas, 5 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 3],ok_tolerante,"3 colunas, 5 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 4],ok_tolerante,"3 colunas, 6 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 5],ok_tolerante,"3 colunas, 250 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 6],ok_tolerante,"3 colunas, 1 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 7],ok_tolerante,"3 colunas, 1 linhas"
+PSI-142,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx [data ID 8],ok_tolerante,"3 colunas, 22 linhas"
+PSI-142,Experimental table\PSI-142_Experimental table_Data Summary Table.csv,ja_existia,
+PSI-159,Raw Data\PSI-159_Raw Data_21088A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21088F1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21088M4_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21102C1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21102M1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106B1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106D1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106F1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106F2_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106F5_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G2_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G3_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G4_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G5_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G6_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G7_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G8_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106G9_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106H1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21106H2_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21112A1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21112A2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112A3_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112A4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112A5_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112C1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112C2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112C4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112C5_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112C6_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112F1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112F1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21112F2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112F3_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21112F4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21125K1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21125K2_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21125K3_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21130A4_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21130M1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21130M2_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21137A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21137D1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21153A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21153C1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21162A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21162C1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21174A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21174C1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21196A1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196A2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196F1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196F2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196F4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196F5_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196F6_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196H1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196J1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196K1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196L1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196M2_1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21196M2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21216A1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21216A3_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21216A4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21216A5_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222A1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222A2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222A4_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222A5_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222B1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222C1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222C2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222F1_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21222F2_Comments.txt,comentario,
+PSI-159,Raw Data\PSI-159_Raw Data_21242F1_mfcSetpoints.csv,ok,"25 colunas, 25 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21242P2_mfcSetpoints.csv,ok,"25 colunas, 25 linhas"
+PSI-159,Raw Data\PSI-159_Raw Data_21291A1_mfcSetpoints.csv,ok,"25 colunas, 35 linhas"
+PSI-181,Experimental table\PSI-181_Experimental table_Experimental Table_PSI_181.csv,ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 and G all sections-1],ok_tolerante,"80 colunas, 386 linhas"
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [Section 1 and 2],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 3],ok_tolerante,"3 colunas, 19 linhas"
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 4],ok_tolerante,"3 colunas, 16 linhas"
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 5],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 6],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 7],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 8],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 9],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 10],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 11],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 12],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 13],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 14],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 15],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 16],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 17],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 18],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 19],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 20],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 21],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 Section 22],ja_existia,
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [M-T2S4 and G all sections],ok_tolerante,"25 colunas, 51 linhas"
+PSI-181,PSI-181_Raw Data_ISSI S3_Pathak Lab S4_Void diameter summary.xlsx [Solder ball volume],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 1],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 2],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 3],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 4],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 5],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 6],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 7],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 8],ja_existia,
+PSI-181,PSI-181_Raw Data_Pb-Sn G Pathak lab Void diameter summary_2022-02-14.xlsx [G-1 Section 9],ja_existia,
+PSI-20,Experimental table\PSI-20_Experimental table_ACME BRE.csv,ok,"8 colunas, 18 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039B3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039C1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039D1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039F1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039G1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039G2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039H1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19039H2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051C3_mfcSetpoints.csv,ok,"25 colunas, 40 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051D1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051F1_mfcSetpoints.csv,ok,"25 colunas, 40 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051G1_mfcSetpoints.csv,ok,"25 colunas, 40 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051K1_1_mfcSetpoints.csv,ok,"25 colunas, 40 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19051K1_mfcSetpoints.csv,ok,"25 colunas, 40 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056A1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056A2_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056B1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056C1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056D2_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056D3_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056F1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_19056Fiber1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_19056Fiber2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_19056Fiber3_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_19056Fiber4_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20247B1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247C1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247D1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247D1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20247G1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247J1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247K1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247L2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247M1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247M1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20247N1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20247N1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20247P1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261A2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261A2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20261B1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261C1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261D1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261F1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261F2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261G1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261G2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261H1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20261J1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20279B1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20279Fiber2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A0_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A3_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A6_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A7_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339A9_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339J1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339J2_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339J3_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20339J3_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_20339J4_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20346H1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20346H3_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20346H4_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20346L3_1_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20346L4_Comments.txt,comentario,
+PSI-20,Raw Data\PSI-20_Raw Data_20352A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21020A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21020G2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21028B1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21028B2_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21028C1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21028D1_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-20,Raw Data\PSI-20_Raw Data_21028D2_mfcSetpoints.csv,ok,"25 colunas, 61 linhas"
+PSI-21,Raw Data\17319A3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\17319D2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\17319D5_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\17319RAD1_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\17319RAD2_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\17319RAD3_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\17319RAD4_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\17319RAD5_mfcSetpoints.csv,ok,"25 colunas, 25 linhas"
+PSI-21,Raw Data\17324B2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\17342C8.txt,nao_tabular,
+PSI-21,Raw Data\17342N1.txt,nao_tabular,
+PSI-21,Raw Data\17342RAD02_1_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\17356RAD01_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\18003RAD1_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\18005A2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005C1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005C2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005D1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005E1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005F1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005H1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005J1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18005J2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18008B3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18008K1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-21,Raw Data\18008MFCA2_13_mfcSetpoints.csv,ok,"25 colunas, 8 linhas"
+PSI-21,Raw Data\18008MFCA2_14_mfcSetpoints.csv,ok,"25 colunas, 8 linhas"
+PSI-21,Raw Data\18008MFCA2_18_mfcSetpoints.csv,ok,"25 colunas, 13 linhas"
+PSI-21,Raw Data\18008MFCA2_19_mfcSetpoints.csv,ok,"25 colunas, 13 linhas"
+PSI-21,Raw Data\18008MFCA2_1_mfcSetpoints.csv,ok,"25 colunas, 5 linhas"
+PSI-21,Raw Data\18008MFCA2_2_mfcSetpoints.csv,ok,"25 colunas, 4 linhas"
+PSI-21,Raw Data\18008MFCA2_3_mfcSetpoints.csv,ok,"25 colunas, 5 linhas"
+PSI-21,Raw Data\18008MFCA2_4_mfcSetpoints.csv,ok,"25 colunas, 5 linhas"
+PSI-21,Raw Data\18008MFCA2_5_mfcSetpoints.csv,ok,"25 colunas, 4 linhas"
+PSI-21,Raw Data\18008MFCA2_6_mfcSetpoints.csv,ok,"25 colunas, 4 linhas"
+PSI-21,Raw Data\18008MFCA2_7_mfcSetpoints.csv,ok,"25 colunas, 11 linhas"
+PSI-21,Raw Data\18008MFCA2_8_mfcSetpoints.csv,ok,"25 colunas, 9 linhas"
+PSI-21,Raw Data\18011D3.txt,nao_tabular,
+PSI-21,Raw Data\18011RAD01_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\18011RAD02_mfcSetpoints.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\18022C3.txt,nao_tabular,
+PSI-21,Raw Data\18053RAD1_data.csv,ok,"25 colunas, 1 linhas"
+PSI-21,Raw Data\18239D1_Comments.txt,comentario,
+PSI-21,Raw Data\18239F1_Comments.txt,comentario,
+PSI-21,Raw Data\18239G1_Comments.txt,comentario,
+PSI-21,Raw Data\18239J1_Comments.txt,comentario,
+PSI-21,Raw Data\18239K1_Comments.txt,comentario,
+PSI-21,Raw Data\18239L2_Comments.txt,comentario,
+PSI-21,Raw Data\21041A5_Comments.txt,comentario,
+PSI-21,Raw Data\21041F1_Comments.txt,comentario,
+PSI-21,Raw Data\21041G3_Comments.txt,comentario,
+PSI-21,Raw Data\21041J2_Comments.txt,comentario,
+PSI-21,Raw Data\21041K1_Comments.txt,comentario,
+PSI-21,Raw Data\21041K2_Comments.txt,comentario,
+PSI-21,Raw Data\21041L1_Comments.txt,comentario,
+PSI-21,Raw Data\21041L2_Comments.txt,comentario,
+PSI-21,Raw Data\21050A1_Comments.txt,comentario,
+PSI-21,Raw Data\21050B1_Comments.txt,comentario,
+PSI-21,Raw Data\21050C1_Comments.txt,comentario,
+PSI-21,Raw Data\21050C2_Comments.txt,comentario,
+PSI-21,Raw Data\21050D3_Comments.txt,comentario,
+PSI-21,Raw Data\21050F2_Comments.txt,comentario,
+PSI-21,Raw Data\21050G1_Comments.txt,comentario,
+PSI-21,Raw Data\21050J1_Comments.txt,comentario,
+PSI-21,Raw Data\21050J2_Comments.txt,comentario,
+PSI-21,Raw Data\21050K1_Comments.txt,comentario,
+PSI-21,Raw Data\21050K2_Comments.txt,comentario,
+PSI-21,Raw Data\21050M1_Comments.txt,comentario,
+PSI-21,Raw Data\21050N1_Comments.txt,comentario,
+PSI-21,Raw Data\21050Q1_Comments.txt,comentario,
+PSI-21,Raw Data\21050R1_Comments.txt,comentario,
+PSI-21,Raw Data\21062A1_Comments.txt,comentario,
+PSI-21,Raw Data\21062C2_Comments.txt,comentario,
+PSI-21,Raw Data\21062D1_Comments.txt,comentario,
+PSI-21,Raw Data\21062D2_Comments.txt,comentario,
+PSI-21,Raw Data\21062F1_Comments.txt,comentario,
+PSI-21,Raw Data\21062G1_Comments.txt,comentario,
+PSI-21,Raw Data\21062J1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18073A3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073A4_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073E1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073F1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073F2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073F3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18073F4_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078A4_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078C2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078D1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078E1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078E2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18078F1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080C1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080D1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080E1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080G1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18080H1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087A2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087C1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087E1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087F1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087G1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087G2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087H1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087H2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18087J1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092A1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18092A1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092A2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092A3_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092B1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092C1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18092C1_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18092C2_mfcSetpoints.csv,ok,"25 colunas, 37 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18102A1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18102A2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18102A3_mfcSetpoints.csv,ok,"25 colunas, 25 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18102A5_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18102B1_mfcSetpoints.csv,ok,"25 colunas, 25 linhas"
+PSI-22,Raw Data\PSI-22_Raw Data_18102D1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18102K1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18106P1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113A3_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113A4_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113B1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113B2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113D1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113D2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113E2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113H1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18113J1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18130A2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18130C1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18130D1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282B1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282C1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282D1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282F1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282G1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282H1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282K1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18282L1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18285A1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18285C1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18285D1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18285F1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18298A3_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18298H1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18312F1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18312G1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18312H1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18312J1_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18312K2_Comments.txt,comentario,
+PSI-22,Raw Data\PSI-22_Raw Data_18319U1_VoltageSweep.txt,nao_tabular,
+PSI-23,Raw Data\PSI-23_Raw Data_19256B3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304A1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304A3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304A7_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304B1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304B2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304B3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304B4_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19304K1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308A1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308A2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308A3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308B1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308C1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308C2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308D1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308F1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308G1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308H1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308H2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308H3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308K1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308K2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308K3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_19308L1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024A1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024B1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024B2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024D1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024D2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024F1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024G1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024H1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024K1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024M1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024N2_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024N3_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024P1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024Q1_Comments.txt,comentario,
+PSI-23,Raw Data\PSI-23_Raw Data_20024R1_Comments.txt,comentario,
+PSI-25,Experimental table\PSI-25_Experimental table_BASS-II.csv,ja_existia,
+PSI-25,PSI-25_Reference Data_Fan calibration data.xlsx [Fan Calibration data],ok_tolerante,"4 colunas, 30 linhas"
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [Bhattacharjee],ja_existia,
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [Ferkul],ja_existia,
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [Miller],ja_existia,
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [Olson],ja_existia,
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [Fernandez-Pello],ja_existia,
+PSI-25,PSI-25_Science Documents_BASS-II_Test.Matrices.xlsx [T'ien],ja_existia,
+PSI-26,Experimental table\PSI-26_Experimental table_BASS.csv,ja_existia,
+PSI-26,PSI-26_Science Documents_As Run_Test Matrix.xlsx [as run matrix],ja_existia,
+PSI-26,PSI-26_Science Documents_As Run_Test Matrix.xlsx [2012],ja_existia,
+PSI-26,PSI-26_Science Documents_As Run_Test Matrix.xlsx [2013],ja_existia,
+PSI-26,PSI-26_Science Documents_As Run_Test Matrix.xlsx [Data without TP],ja_existia,
+PSI-26,PSI-26_Science Documents_As Run_Test Matrix.xlsx [TP without Data],ja_existia,
+PSI-26,PSI-26_Science Documents_Planned_Test Matrix.xlsx [BASS Test Matrix],ok_tolerante,"2 colunas, 20 linhas"
+PSI-39,Raw Data\PSI-39_Raw Data_F158A02_Comments.txt,comentario,
+PSI-39,Raw Data\PSI-39_Raw Data_F173E02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F173E03_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F173E05_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F173E06_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F177D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F177D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F177D03_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F177D04_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F177D05_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F179E01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F179E02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F179E05_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F180D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F180D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F186D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F186D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F186D04_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F186D06_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F191D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F191D03_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F191D04_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F191D05_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F195D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F195D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F195D07_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F195D10_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F195D11_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F200D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F200D03_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F200D04_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F200D05_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F205D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F205D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F208D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F208D02_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F208D03_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F208D04_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F213D01_Color_Camera_Settings.txt,ja_existia,
+PSI-39,Raw Data\PSI-39_Raw Data_F213D02_Color_Camera_Settings.txt,ja_existia,
+PSI-68,Experimental table\PSI-68_Experimental table_Flex2.csv,ok,"7 colunas, 8 linhas"
+PSI-68,Raw Data\A118D01_Comments.txt,comentario,
+PSI-68,Raw Data\A184D07_Comments.txt,comentario,
+PSI-68,Raw Data\A184D09_Comments.txt,comentario,
+PSI-68,Raw Data\A221R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A245R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A278R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A307D01_Comments.txt,comentario,
+PSI-68,Raw Data\A310R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A317D06_Comments.txt,comentario,
+PSI-68,Raw Data\A317R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A317R02_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\A324R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B240R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B264D02_Comments.txt,comentario,
+PSI-68,Raw Data\B264R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B289R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B304R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B320D03_Comments.txt,comentario,
+PSI-68,Raw Data\B320R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\B341R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\C070B06_Comments.txt,comentario,
+PSI-68,Raw Data\C080R01_Mixture.txt,ok,"17 colunas, 1 linhas"
+PSI-68,Raw Data\C085R01_Mixture.txt,ok,"17 colunas, 1 linhas"
+PSI-68,Raw Data\D358E03.txt,nao_tabular,
+PSI-68,Raw Data\E017A01_Comments.txt,comentario,
+PSI-68,Raw Data\E017R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E053A03_Comments.txt,comentario,
+PSI-68,Raw Data\E053R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E059R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E061R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E065A06_Comments.txt,comentario,
+PSI-68,Raw Data\E065R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E066C03 Comments.txt,nao_tabular,
+PSI-68,Raw Data\E066R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E066R02_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E073C07_Comments.txt,comentario,
+PSI-68,Raw Data\E073R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E087C06_Comments.txt,comentario,
+PSI-68,Raw Data\E103R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E108R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E110E06_Comments.txt,comentario,
+PSI-68,Raw Data\E110R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E114D02_Comments.txt,comentario,
+PSI-68,Raw Data\E114D05_Comments.txt,comentario,
+PSI-68,Raw Data\E114R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E117R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E121D08_Comments.txt,comentario,
+PSI-68,Raw Data\E121R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E135F03_Comments.txt,comentario,
+PSI-68,Raw Data\E135F04_Comments.txt,comentario,
+PSI-68,Raw Data\E135F08_Comments.txt,comentario,
+PSI-68,Raw Data\E135F10_Comments.txt,comentario,
+PSI-68,Raw Data\E135R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E143R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E156F08 _Comments.txt,comentario,
+PSI-68,Raw Data\E156R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E159R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-68,Raw Data\E163L05_Comments.txt,comentario,
+PSI-68,Raw Data\E169M01_Color_Camera_Settings.txt,ok,"11 colunas, 0 linhas"
+PSI-68,Raw Data\E237H01_Comments.txt,comentario,
+PSI-68,Raw Data\E237H02_Comments.txt,comentario,
+PSI-68,Raw Data\E237H04_Comments.txt,comentario,
+PSI-68,Raw Data\E237H06_Comments.txt,comentario,
+PSI-68,Raw Data\E237H11_Comments.txt,comentario,
+PSI-68,Raw Data\E237H12_Comments.txt,comentario,
+PSI-68,Raw Data\E248H13_Comments.txt,comentario,
+PSI-68,Raw Data\E258H04_Comments.txt,comentario,
+PSI-68,Raw Data\E293J01_Comments.txt,comentario,
+PSI-68,Raw Data\E293J04_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_C055D02_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_C060A03_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_C104D03_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_C104D08_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_D098D03_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_D349D06_Color_Camera_Settings.txt,ok,"11 colunas, 0 linhas"
+PSI-68,Raw Data\PSI-68_Raw Data_D349D08_Color_Camera_Settings.txt,ok,"11 colunas, 0 linhas"
+PSI-68,Raw Data\PSI-68_Raw Data_E216L01_Comments.txt,comentario,
+PSI-68,Raw Data\PSI-68_Raw Data_E216L03_Comments.txt,comentario,
+PSI-68,RDTST01_and_LCTF001_Radiometer_Readings.xlsx [RDTST01],ok,"1 colunas, 76 linhas"
+PSI-68,RDTST01_and_LCTF001_Radiometer_Readings.xlsx [LCTF001],ok,"1 colunas, 45 linhas"
+PSI-69,Calibration\PSI-69_Calibration_20CAL08_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_20CAL10_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_20CAL12_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_20CAL13_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_30CAL02_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_30CAL03_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_30CAL06_Chamber_Gases.txt,nao_tabular,
+PSI-69,Calibration\PSI-69_Calibration_40CAL01_Chamber_Gases.txt,nao_tabular,
+PSI-69,Experimental table\PSI-69_Experimental table_FLEX.csv,ok_tolerante,"15 colunas, 274 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_189R002_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_207F001_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_209F002_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_218R001_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_223F001_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_248F001_MissingImageData.txt,ok,"5 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_256F009_MissingImageData.txt,ok,"5 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_305F002_Comments.txt,comentario,
+PSI-69,PSI-69_Raw Data_30CAL07-Test009 Results.xls [Test 009],ok_tolerante,"13 colunas, 7 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C01H601_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C01M501_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C021R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C024R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C030R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C031R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C039H01_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C039R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C03H501_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C049H02_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C049H03_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C049R01_Mixture.txt,nao_tabular,
+PSI-69,Raw Data\PSI-69_Raw Data_C052R01_Mixture.txt,ok,"15 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_C08H301_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C08H601_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C08M601_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C09H501_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C10H101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C10M102_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C11M101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_C21H304_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_filelist.txt,nao_tabular,
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-013_ColorCamData.txt,ja_existia,
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-059_ColorCamData.txt,ok,"3 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-194_ColorCamData.txt,ok,"3 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-224_ColorCamData.txt,ok,"3 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-225_ColorCamData.txt,ok,"3 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_FLEX-247_ColorCamData.txt,ok,"3 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_H02M101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H03H101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H04H101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H05M102_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H10H101_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H12M102_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_H14M202_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_N01H201_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_N01H401_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_N06M201_Comments.txt,comentario,
+PSI-69,Raw Data\PSI-69_Raw Data_Readme-Test_009.txt,comentario,
+PSI-69,PSI-69_Raw Data_Test 002 Results.xls [Test 002],ok_tolerante,"4 colunas, 669 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X100R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X119R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X126R01_Mixture.txt,ok,"0 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X129R01_Mixture.txt,nao_tabular,
+PSI-69,Raw Data\PSI-69_Raw Data_X136R01_Mixture.txt,ok,"0 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X144R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X149R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X161R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X163R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X168R01_Mixture.txt,ok,"0 colunas, 0 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X170R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X175R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-69,Raw Data\PSI-69_Raw Data_X182R01_Mixture.txt,ok,"16 colunas, 1 linhas"
+PSI-98,Experimental table\PSI-98_Experimental table_SAFFIRE-1.csv,ja_existia,
+PSI-98,Raw Data\PSI-98_Raw Data_Saffire-I Sample 1 Sensor Data Complete TM graphs.xlsx,grande_demais,> 20 MB
+PSI-98,Raw Data\PSI-98_Raw Data_Saffire-I Sample 2 Sensor Data Complete TM graphs.xlsx,grande_demais,> 20 MB
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [RawData],ja_existia,
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [Cygnus-Saffire Timestamp Graph],aba_de_grafico,sem dados
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusData],ok_tolerante,"23 colunas, 8072 linhas"
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusSmokeDetectorData],ok_tolerante,"6 colunas, 290 linhas"
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusPressureData],ok_tolerante,"8 colunas, 332 linhas"
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusTemperatureData],ja_existia,
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [SaffireData],ja_existia,
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [RadiometerGraph],aba_de_grafico,sem dados
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [FlowGraph],aba_de_grafico,sem dados
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusPressTempGraph],aba_de_grafico,sem dados
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [CygnusSmokeDetectorGraph],aba_de_grafico,sem dados
+PSI-98,PSI-98_Raw Data_Saffire-I Telemetry Data Good Process Version.xlsx [timedelta],aba_de_grafico,sem dados
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [PreFlowVis - TimeSort],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [PostFlowVis - jpeg TimeSort],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Sample1 - jpeg TimeSort],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Sample2 - jpeg TimeSort],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [BIT - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [PreFlowVis - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [PostFlowVis - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Sample1 - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Sample2 - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Received - jpeg],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Received - jpeg Corrupted],ja_existia,
+PSI-98,PSI-98_Science Documents_SAFFIRE-1_MergeResult-jpeg_Update_Final_v2.xlsx [Received - jpeg Zips],ja_existia,
+PSI-99,Experimental table\PSI-99_Experimental table_SAFFIRE-2.csv,ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 1.xlsx [Calibrated Data],ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 2.xlsx [Calibrated Data],ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 3.xlsx [Calibrated Data],ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 4.xlsx [Calibrated Data],ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 5.xlsx [Calibrated Data],ja_existia,
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Anemometer Tach and Igniter],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Radiometer],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Plume Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Sample Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [CO2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [O2],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Pressure],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Humidity],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Inlet Temperature],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Camera Exposure and Gain],aba_de_grafico,sem dados
+PSI-99,PSI-99_Raw Data_Saffire Sensor Data Sample 6.xlsx [Calibrated Data],ja_existia,
+PSI-99,Raw Data\PSI-99_Raw Data_Saffire Sensor Data Sample 7.xlsx,grande_demais,> 20 MB
+PSI-99,Raw Data\PSI-99_Raw Data_Saffire Sensor Data Sample 8.xlsx,grande_demais,> 20 MB
+PSI-99,Raw Data\PSI-99_Raw Data_Saffire Sensor Data Sample 9.xlsx,grande_demais,> 20 MB
+PSI-99,Raw Data\PSI-99_Raw Data_Saffire-II Telemetry Data.xlsx,grande_demais,> 20 MB
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Received - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [BIT - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [PreFlowVis - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [PostFlowVis - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample1 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample2 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample3 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample4 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample5 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample6 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample7 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample8 - jpeg],ja_existia,
+PSI-99,PSI-99_Science Documents_SAFFIRE-II_MergeResult-jpeg_v5_Final.xlsx [Sample9 - jpeg],ja_existia,

@@ -1,0 +1,1 @@
+IPSU4 (MDCA color camera) stop aquiring after 95 images.

@@ -1,0 +1,1 @@
+ColorCamTime_sec	ColorCamFlameDiameter_mm	ColorCamFlameStandoff

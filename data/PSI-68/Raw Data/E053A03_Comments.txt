@@ -1,0 +1,1 @@
+IPSU4 has 100 images with a delta of 36 miiliseconds.

@@ -1,0 +1,2 @@
+2017-11-15 319 23:01:36:696 ,Experiment: 1,Test Point: 17319RAD2,MFCA1 Gas: 0,MFCA1 Full Scale: 20.000000,MFCA2 Gas: 0,MFCA2 Full Scale: 0.100000,MFCA3 Gas: 2,MFCA3 Full Scale: 0.100000,EField: 0,EFieldPol: 1,Igniter: 1,Burner: 3,Thermocouple: 2,Radiometer: 0,IPSU 1: 1,IPSU 2: 0,IPSU 3: 0,IPSU 4: 0,IPSU 5: 1,IPSU 6: 0,Fiber: 1,PMT 1 Gain: 0.000000,PMT 2 Gain: 0.000000,PMT 3 Gain: 0.000000
+Time,MFCA1Setpoint(V),MFCA2Setpoint(V),MFCA3Setpoint(V)

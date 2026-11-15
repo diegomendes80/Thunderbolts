@@ -1,0 +1,1 @@
+IPSU1 (HIBMS) failed to collect images for this test point.

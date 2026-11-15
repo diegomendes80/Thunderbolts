@@ -1,0 +1,8 @@
+filelist.txt
+LCTF049
+LCTF049.txt
+LCTF049.zip
+LCTF049C
+LCTF049C.zip
+LCTF049_LCTF_Camera_Settings.txt
+LCTF049_MDCA_Testpoint_Settings.txt
