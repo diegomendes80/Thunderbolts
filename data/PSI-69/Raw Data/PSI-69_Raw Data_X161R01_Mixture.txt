@@ -1,0 +1,2 @@
+Date/Time,O2,He,CO2,N2,Xe,H20,Decane,Ethanol,Glycerol,Hexadecane,Iso-octane,Propanol,Propylbenzene,Heptane,Methanol
+05/29/2013 22:04,21.000%,0.000%,0.000%,48.990%,30.010%,0.000%,0.000%,0.000%,0.000%,0.000%,0.000%,0.000%,0.000%,0.000%,0.000%

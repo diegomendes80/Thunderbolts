@@ -1,0 +1,1 @@
+IPSU4 (Color camera) failed after acquiring 95 images.

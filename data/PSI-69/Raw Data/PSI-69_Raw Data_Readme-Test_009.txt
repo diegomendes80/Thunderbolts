@@ -1,0 +1,1 @@
+Image files do not exist for this test.

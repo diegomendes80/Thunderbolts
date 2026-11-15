@@ -1,0 +1,11 @@
+1/2/2015 dld IPSU1, IPSU2, IPSU3 and IPSU4 downlinked with no missing images.
+
+Test Point: D358E03C
+of 1017 images, there are 2 with a bad delta time.
+Frames per Second: 30
+Image #282 has a delta of 234
+Image #295 has a delta of 234
+
+
+
+
