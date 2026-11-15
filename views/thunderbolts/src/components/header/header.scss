@@ -1,0 +1,69 @@
+@use "../../abstract/var";
+
+.header-root {
+  width: 100%;
+  padding: 0.3rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var.$border-header;
+
+  .header__logo {
+    width: 250px;
+  }
+
+  .header__menu-nav {
+    display: flex;
+
+    .nav-item {
+      color: var.$text-secondary;
+      font-size: 13px;
+
+      &:hover {
+        color: var.$text-primary;
+      }
+    }
+  }
+
+  .header__nasa-display {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    .display-circle {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background-color: var.$color-orange;
+    }
+
+    .nasa-display__title {
+      color: var.$text-secondary;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      font-size: 12px;
+    }
+  }
+}
+
+@media (max-width: 1000px) {
+  .header-root {
+    padding: 0.3rem 0.5rem;
+    .header__logo {
+      width: 200px;
+    }
+
+    .header__menu-nav {
+      .nav-item {
+        font-size: 14px;
+        &:nth-child(1),
+        &:nth-child(2) {
+          display: none;
+        }
+      }
+    }
+    .header__nasa-display {
+      display: none;
+    }
+  }
+}
