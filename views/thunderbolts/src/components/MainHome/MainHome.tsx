@@ -12,7 +12,7 @@ export const MainHome = () => {
           MICROGRAVITY COMBUSTION RESEARCH
         </Typography>
         <Typography variant={"h1"} className="content__title">
-          Understanding Fire <span className="highlight">Beyond Earth.</span> 
+          Understanding Fire <span className="highlight">Beyond Earth.</span>
         </Typography>
         <Typography variant="body1" className="content_text">
           Without gravity, fire follows different rules. A journey through the
@@ -20,13 +20,27 @@ export const MainHome = () => {
         </Typography>
 
         <Box component={"div"} className="content__action">
-          <Box component={"span"} className="action__down">
-            <SouthIcon className="down-icon"/>
+          <Box
+            component={"span"}
+            className="action__down"
+            role="button"
+            tabIndex={0}
+            aria-label="Scroll to the investigations"
+            onClick={() =>
+              document
+                .getElementById("science")
+                ?.scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            <SouthIcon className="down-icon" />
           </Box>
 
-          <Typography variant="body1" className="action__explore">Explore the story</Typography>
-          <Typography variant="body1" className="action__interval">1967 - TODAY</Typography>
-
+          <Typography variant="body1" className="action__explore">
+            Explore the story
+          </Typography>
+          <Typography variant="body1" className="action__interval">
+            1967 - TODAY
+          </Typography>
         </Box>
       </Box>
     </Box>

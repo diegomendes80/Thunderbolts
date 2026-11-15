@@ -1,0 +1,77 @@
+@use "../../abstract/var";
+
+.study-card-root {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.25rem;
+  background: var.$bg-section;
+  border: 1px solid var.$border-default;
+  border-radius: 8px;
+  transition: border-color 0.2s;
+
+  &:hover {
+    border-color: var.$color-orange;
+  }
+
+  .study-card__top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+
+    .study-card__id {
+      font-family: var.$font-mono;
+      font-size: 12px;
+      color: var.$highlight-main;
+    }
+
+    .study-card__acronym {
+      font-family: var.$font-mono;
+      font-size: 10px;
+      text-transform: uppercase;
+      color: var.$text-secondary;
+    }
+  }
+
+  .study-card__title {
+    font-family: var.$font-sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: var.$text-primary;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .study-card__text {
+    flex-grow: 1;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var.$text-secondary;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .study-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+
+    .tag {
+      font-family: var.$font-mono;
+      font-size: 10px;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border: 1px solid var.$border-default;
+      border-radius: 4px;
+      color: var.$text-secondary;
+    }
+  }
+}
