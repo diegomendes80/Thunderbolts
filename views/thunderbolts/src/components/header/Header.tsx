@@ -3,18 +3,12 @@ import {
   Box,
   Typography,
   List,
-  ListItem,
   ListItemButton,
-  ListItemText,
 } from "@mui/material";
 import logo from "../../assets/flamescope-logo-transparente.png";
 
 export const Header = () => {
-  const links = [
-    { label: "The story", href: "#story" },
-    { label: "The science", href: "#science" },
-    { label: "Sources ↗", href: "https://psi.nasa.gov", external: true },
-  ];
+
 
   return (
     <Box component={"div"} className="header-root">
@@ -29,7 +23,7 @@ export const Header = () => {
         </ListItemButton>
         <ListItemButton
           component="a"
-          href="https://psi.nasa.gov"
+          href="https://psi.nasa.gov/physci/repo/search?q=combustion&data_source=psi&data_type=investigation"
           target="_blank"
           rel="noopener noreferrer"
           className="nav-item"
