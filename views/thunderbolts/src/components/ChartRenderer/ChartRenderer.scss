@@ -1,0 +1,42 @@
+@use "../../abstract/var";
+
+.chart-root {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background: var.$bg-surface;
+  border: 1px solid var.$border-default;
+  border-radius: 12px;
+}
+
+.chart__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.chart__title {
+  color: var.$text-primary;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.chart__origin {
+  font-family: var.$font-mono;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var.$color-gold;
+  border: 1px solid var.$border-default;
+  border-radius: 999px;
+  padding: 3px 10px;
+  white-space: nowrap;
+}
+
+.chart__note {
+  color: var.$text-secondary;
+  font-size: 0.8rem;
+}
